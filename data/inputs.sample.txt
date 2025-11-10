@@ -1,0 +1,2 @@
+# Sample input for WebMD doctor scraper.
+# You can provide URLs to scrape or configure parameters here.
