@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Sample Doctor",
+    "specialties": ["Family Medicine"],
+    "ratings": {"average": "4.8"},
+    "bio": "Experienced family medicine practitioner with a focus on preventive care.",
+    "reviews": [{"text": "Excellent care!", "rating": "5"}]
+  }
+]
