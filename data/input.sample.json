@@ -1,0 +1,12 @@
+{
+  "searchUrl": "https://doctor.webmd.com/find-a-doctor?sortby=bestmatch& specialty=family-medicine&lat=34.0736&lng=-118.4004&zip=90210",
+  "maxItems": 25,
+  "outputFormat": "json",
+  "outputFile": "data/sample_output.json",
+  "proxyConfiguration": {
+    "http": "",
+    "https": ""
+  },
+  "timeoutSeconds": 20,
+  "maxRetries": 3
+}
