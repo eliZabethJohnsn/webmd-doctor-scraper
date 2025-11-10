@@ -1,0 +1,5 @@
+{
+    "maxItems": 100,
+    "outputFormat": "json",
+    "scrapingInterval": 2
+}
