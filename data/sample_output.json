@@ -1,0 +1,60 @@
+[
+  {
+    "providerid": "E4F63621-2D8F-4AA8-8D9E-3D7AB35FC879",
+    "name": {
+      "first": "Stephanie",
+      "last": "Najarro",
+      "full": "Stephanie Najarro"
+    },
+    "gender": "F",
+    "npi": "1376973354",
+    "specialties": [
+      "Family Medicine",
+      "Primary Care"
+    ],
+    "degrees": [
+      "FNP-C"
+    ],
+    "education": {
+      "graduationYear": 2019
+    },
+    "photos": "https://example.com/images/stephanie-najarro.jpg",
+    "bio": "Stephanie Najarro, FNP-C, is a compassionate family medicine provider dedicated to delivering accessible, patient-centered primary care to individuals and families.",
+    "ratings": {
+      "reviewCount": 11,
+      "averageRating": 5
+    },
+    "location": {
+      "name": "Circle Medical",
+      "address": "9100 Wilshire Blvd Suite 555E",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zip": "90212",
+      "phone": "(555) 555-1234"
+    },
+    "insurances": [
+      "Aetna",
+      "Blue Cross Blue Shield",
+      "Cigna",
+      "UnitedHealthcare"
+    ],
+    "urls": {
+      "profile": "https://doctor.webmd.com/doctor/stephanie-najarro",
+      "appointment": "https://booking-v2.circlemedical.com/provider/?slug=stephanie-najarro-fnp-c",
+      "website": "https://circlemedical.com/providers/stephanie-najarro"
+    },
+    "searchUrl": "https://doctor.webmd.com/find-a-doctor?sortby=bestmatch&specialty=family-medicine&lat=34.0736&lng=-118.4004&zip=90210",
+    "reviews": [
+      {
+        "rating": "5",
+        "text": "Very compassionate and kind. She always listens carefully and explains every step of my care.",
+        "date": "1/29/2025"
+      },
+      {
+        "rating": "5",
+        "text": "Professional, thorough, and friendly. I feel very comfortable discussing my concerns with her.",
+        "date": "12/12/2024"
+      }
+    ]
+  }
+]
